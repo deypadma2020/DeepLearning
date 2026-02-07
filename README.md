@@ -8,7 +8,7 @@ The repo covers **Artificial Neural Networks (ANN), Convolutional Neural Network
 
 ---
 
-## 🚀 What You’ll Learn
+## 🚀 What You’ll Learn: 
 
 - Fundamentals of Deep Learning
 - How neural networks work internally
