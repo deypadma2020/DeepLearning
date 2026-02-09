@@ -1,6 +1,6 @@
 # DeepLearning
 
-# 🧠 Deep Learning Repository:
+# 🧠 Deep Learning Repository: -
 
 This repository is a structured collection of **Deep Learning concepts and implementations**, designed to help beginners and intermediate learners understand and apply core neural network architectures through hands-on examples.
 
